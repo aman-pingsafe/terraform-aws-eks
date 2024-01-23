@@ -1,4 +1,4 @@
-# AWS EKS Terraform module
+# AWS EKS Terraform modules
 
 Terraform module which creates AWS EKS (Kubernetes) resources
 
